@@ -1,2 +1,2 @@
 # progettoRO-OnePixelAttack
-Descrizione dell'algoritmo evolutivo evoluzione differenziale con relativa implementazione e test su diverse funzioni e sul dataset MNIST.
+Descrizione dell'euristica evoluzione differenziale con relativa implementazione. Nel folder ImplementazioneDE è riportata una possibile implementazione dell'algoritmo con alcuni esempi di minimizzazione. Viene poi addestrata una rete neurale convoluzionale sul dataset MNIST e sono successivamente generati esempi avversari al variare di parametri per valutare il degrado delle prestazioni del modello target.
